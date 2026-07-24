@@ -1,9 +1,11 @@
-streamlit==1.42.0
-pandas==2.2.3
-numpy==2.2.3
+streamlit==1.40.2
+pandas==2.2.2
+numpy==1.26.4
 plotly==5.24.1
 openpyxl==3.1.5
-xlsxwriter==3.2.2
-reportlab==4.3.1
-Pillow==11.1.0
+xlsxwriter==3.2.0
+reportlab==4.2.5
+Pillow==10.3.0
 python-barcode==0.15.1
+sqlalchemy==2.0.30
+python-docx==1.1.2
